@@ -1,0 +1,9 @@
+python-dotenv
+langchain 
+langchain_community
+sentence-transformers
+newsdataapi
+langchain-text-splitters
+pinecone-client
+langchain_pinecone
+schedule
